@@ -27,6 +27,12 @@ $ cd mono_unbundle
 $ pip install .
 ```
 
+## Alternatively
+
+```bash
+python3 ./setup.py
+```
+
 ## Usage
 ```bash
 $ apktool d -rs myapp.apk -o mod    # https://ibotpeaches.github.io/Apktool/
